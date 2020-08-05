@@ -11,7 +11,7 @@
     <groupId>com.depa</groupId>
     <artifactId>testing-system</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>testing-system</name>
+    <name>testing-system-fork</name>
     <description>Form Management project powered by Spring Boot.</description>
 
     <properties>
